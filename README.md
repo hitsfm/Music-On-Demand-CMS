@@ -3,7 +3,7 @@ Simple PHP cms for mp3 streaming player script.<p>
 <h2>Features</h2>
 <li>-Streaming Of MP3 feeds (folders) in randon order in infinite loop.
 -Simple Play, Pause, Next player button controls.</li>
-<li>Song title is pulled from file name, Useless strings like (dot) and mp3 strings are stripped and title of Current Song is Displayed inside player window</li>
+<li>Song title is pulled from file name, Useless strings like (dot) and mp3 are stripped and title of Current Song is displayed inside player window</li>
 <p><br>
 The idea was for me to create a simple cms PHP solution that would work on my home http server and stream my mp3 organized folders (format) to the internet in a continuois random loop kind of how Amazon music stream on demand feeds work. and I would be able to playback any desired musical format I have configured with the cms to suit the mood of the event I may be at as long as I got a data connection to the internet with this script i'm good to party.
 
