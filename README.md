@@ -16,4 +16,4 @@ The idea was for me to create a simple cms PHP solution that would work on my ho
 <p>
 <h1>Limitations</h1>
 <li>File create_new_site.php is in the open and not safe for production mode. Create your own script for that or keep it easy by simply setting up an encrypted password with Apache. to access that file. Also, rename it to something secret only you know. If you do these two things. The script will be pretty safe.</li>
-<li>No way to delete new feeds from front end, You must delete the music folder and the php new site file and delete the navbarlink. All this only taking a moment if you had to do this.</li>
+<li>No way to delete new feeds from front end, You must delete the music folder and the php new site file and delete the navbarlink in index.html. All this only taking a moment if you had to do this.</li>
