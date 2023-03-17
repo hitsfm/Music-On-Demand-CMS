@@ -1,6 +1,11 @@
 # Music-On-Demand-CMS
 ![image](https://github.com/hitsfm/Music-On-Demand-CMS/blob/main/screenshots/Index.png)
+
+<br>
+
 ![image](https://github.com/hitsfm/Music-On-Demand-CMS/blob/main/screenshots/player.png)
+
+<br>
 Simple PHP cms for mp3 streaming player script.<p>
 <h2>Features</h2>
 <li>-Streaming Of MP3 feeds (folders) in randon order in infinite loop.
